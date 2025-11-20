@@ -51,7 +51,4 @@ Open PowerShell and run:
 ```powershell 
 powershell.exe -ExecutionPolicy Bypass -File system_recon.ps1
 ```
-```If you get permission errors:
-
-Set-ExecutionPolicy -Scope Process Bypass
 
